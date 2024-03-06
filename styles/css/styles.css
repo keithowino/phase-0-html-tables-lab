@@ -1,0 +1,24 @@
+
+main {
+  margin: 5% 10%;
+}
+
+tr {
+  text-align: center;
+}
+
+img {
+  display: block;
+  height: 70px;
+  width: 70px;
+  margin-right: 1em;
+}
+
+.origin-flag {
+  display: flex;
+  justify-content: center;
+}
+
+th {
+  background-color: rgb(50, 112, 165);
+}
